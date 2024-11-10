@@ -2,7 +2,7 @@
 All this has been possible thanks to the exceptional work of [jmontleon - pixelbook-fedora](https://github.com/jmontleon/pixelbook-fedora)
 
 # Pixelbook EVE 2017 - Debian
-In a fresh Debian installation almost anything is working out of the box.
+In a fresh Debian installation, almost everthing is working out of the box.
 With the exception of a few features which are very nice to have working.
 
 This repository contains some post-install configurations and guides in order to make working:
